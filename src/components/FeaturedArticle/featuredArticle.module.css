@@ -1,0 +1,9 @@
+.featuredDiv {
+    background-color: lightgray;
+    margin: 4em;
+    padding: 2em;
+}
+
+.featuredDiv h1 {
+    color: rgb(92, 90, 90);
+}

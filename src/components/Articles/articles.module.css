@@ -1,0 +1,32 @@
+.articleDiv{
+    padding: 2em;
+    
+}
+
+.articleDiv h3 {
+    color: cornflowerblue;
+    font-weight: 380;
+
+}
+
+.articleDiv p {
+    font-size: 14px;
+}
+
+.articleDiv li {
+    list-style-type: none;
+    margin-bottom: 2em;
+}
+
+.comments {
+   margin-right: 2em; 
+
+}
+
+.engagement{
+    background-color: orange;
+    padding: .5em;
+    color:white;
+    font-weight: 500;
+
+}
